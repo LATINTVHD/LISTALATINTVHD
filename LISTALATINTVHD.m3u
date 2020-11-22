@@ -1,0 +1,534 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="LATINTVHD", Gerado por eldukedelasapuesta IPTV
+
+#EXTINF:-1 tvg-logo="http://controlam.com/Logos/Aemundo.jpg" group-title="CINE", A&E SD_
+http://thex.tv:57999/juanlopez/juanlopez/358
+
+#EXTINF:-1 tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/axn.jpg" group-title="CINE", AXN FHD_
+http://thex.tv:57999/juanlopez/juanlopez/363
+
+#EXTINF:-1 tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/axn.jpg" group-title="CINE", AXN HD_
+http://thex.tv:57999/juanlopez/juanlopez/364
+
+#EXTINF:-1 tvg-logo="https://www.lonasdigital.com/cache.php?img=http%3A%2F%2Fi60.tinypic.com%2F2qlbcwg.jpg" group-title="CINE", AXN WHITE FHD_
+http://thex.tv:57999/juanlopez/juanlopez/366
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/c1/4f/75/c14f754e78f60f3a8829b2b5c2e1276a.png" group-title="CINE", CINECANAL FHD_
+http://thex.tv:57999/juanlopez/juanlopez/371
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/0d5c82f5-c658-478d-9cc7-004599ecd6b2_m.jpg" group-title="CINE", CINELATINO SD_
+http://thex.tv:57999/juanlopez/juanlopez/374
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/94/aa/50/94aa508101091d9afbc7519458baca6a.png" group-title="CINE", CINEMAX FHD_
+http://thex.tv:57999/juanlopez/juanlopez/377
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/94/aa/50/94aa508101091d9afbc7519458baca6a.png" group-title="CINE", CINEMAX SD_
+http://thex.tv:57999/juanlopez/juanlopez/378
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/58/CINEMAX_2_logo.png" group-title="CINE", CINEMAX 2 FHD_
+http://thex.tv:57999/juanlopez/juanlopez/5052
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/De_pelicula_logo.png" group-title="CINE", DEPELICULA SD_
+http://thex.tv:57999/juanlopez/juanlopez/379
+
+#EXTINF:-1 tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Flogos.fandom.com%2Fwiki%2FDe_Pel%25C3%25ADcula_Plus&psig=AOvVaw2a63o9lJ3hh4gaL-h35Os5&ust=1585169209709000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKDoo8_9s-gCFQAAAAAdAAAAABAD" group-title="CINE", DEPELICULA PLUS FHD_
+http://thex.tv:57999/juanlopez/juanlopez/5053
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/Canal_DHE.jpg" group-title="CINE", DHE FHD_
+http://thex.tv:57999/juanlopez/juanlopez/380
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/Canal_DHE.jpg" group-title="CINE", DHE SD_
+http://thex.tv:57999/juanlopez/juanlopez/381
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/FOXPremium2018.png" group-title="CINE", FOX FHD_
+http://thex.tv:57999/juanlopez/juanlopez/384
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/a6911fcf-0430-4e30-9302-d6e022438559_m.jpg" group-title="CINE", FOX HD_
+http://thex.tv:57999/juanlopez/juanlopez/6222
+
+#EXTINF:-1 tvg-logo="https://fotos.subefotos.com/730041fbda75cd63be6b10ef3453eeado.png" group-title="CINE", FOX ACTION FHD_
+http://thex.tv:57999/juanlopez/juanlopez/386
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/79b62b45-8c31-4794-9ffe-8023e575cf77_m.jpg" group-title="CINE", FOX CINEMA FHD_
+http://thex.tv:57999/juanlopez/juanlopez/389
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/6bd5f946-bf5a-4dee-b3b2-4e87a85e830a_m.jpg" group-title="CINE", FOX COMEDY FHD_
+http://thex.tv:57999/juanlopez/juanlopez/395
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_fox-movies_m.png" group-title="CINE", FOX MOVIE FHD_
+http://thex.tv:57999/juanlopez/juanlopez/401
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_fox-movies_m.png" group-title="CINE", FOX MOVIE SD_
+http://thex.tv:57999/juanlopez/juanlopez/403
+
+#EXTINF:-1 tvg-logo="https://fng-resizer-qp.foxplay.com/resizer/resizer?service=fng&surl=http://fng-vod-qp.foxplay.com/fng_img/2017-10/FOXSeries-Channel_Logo_16x91507546624990.png&h=BA0811889F8D2DB09A550DA94F975FCB5E22E2F485E8CF2478DCAEF4430F612&height=1&width=300&scalingMode=matchWidth" group-title="CINE", FOX SERIES FHD_
+http://thex.tv:57999/juanlopez/juanlopez/404
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1158249304/Logo-lat-2010_400x400.jpg" group-title="CINE", FX FHD_
+http://thex.tv:57999/juanlopez/juanlopez/407
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1013533204937166848/0s_RxpUI_400x400.jpg" group-title="CINE", FXM FHD_
+http://thex.tv:57999/juanlopez/juanlopez/409
+
+#EXTINF:-1 tvg-logo="https://www.kolbi.cr/wps/wcm/connect/www.kolbi.cr/224f3869-f926-4c8e-9d1e-b013c8170b99/canal-golden-180x180.png?MOD=AJPERES&CACHEID=ROOTWORKSPACE.Z18_GG1AHCC0P8VB70QI79ARQL0000-224f3869-f926-4c8e-9d1e-b013c8170b99-mdbLFiQ" group-title="CINE", GOLDEN FHD_
+http://thex.tv:57999/juanlopez/juanlopez/411
+
+#EXTINF:-1 tvg-logo="https://www.kolbi.cr/wps/wcm/connect/www.kolbi.cr/224f3869-f926-4c8e-9d1e-b013c8170b99/canal-golden-180x180.png?MOD=AJPERES&CACHEID=ROOTWORKSPACE.Z18_GG1AHCC0P8VB70QI79ARQL0000-224f3869-f926-4c8e-9d1e-b013c8170b99-mdbLFiQ" group-title="CINE", GOLDEN SD_
+http://thex.tv:57999/juanlopez/juanlopez/412
+
+#EXTINF:-1 tvg-logo="https://www.forosperu.net/proxy.php?image=http%3A%2F%2Fi.imgur.com%2FHBy95.png&hash=cb9f82ce2cf35dbee043d840eb0fcfdc" group-title="CINE", GOLDEN EDGE FHD_
+http://thex.tv:57999/juanlopez/juanlopez/413
+
+#EXTINF:-1 tvg-logo="https://www.forosperu.net/proxy.php?image=http%3A%2F%2Fi.imgur.com%2FHBy95.png&hash=cb9f82ce2cf35dbee043d840eb0fcfdc" group-title="CINE", GOLDEN EDGE SD_
+http://thex.tv:57999/juanlopez/juanlopez/414
+
+#EXTINF:-1 tvg-logo="http://forounivers.com/uploads/monthly_2017_10/large.logo-golden-plus.png.d8b04c2467807f33fffcde0c425cf0c1.png" group-title="CINE", GOLDEN PLUS FHD_
+http://thex.tv:57999/juanlopez/juanlopez/415
+
+#EXTINF:-1 tvg-logo="http://www.ipuntotv.com/IMAGES/Golden-Premier-logo.png" group-title="CINE", GOLDEN PREMIER FHD_
+http://thex.tv:57999/juanlopez/juanlopez/417
+
+#EXTINF:-1 tvg-logo="http://bahiatelecom.es/wp-content/uploads/2017/12/canales-hbo-logo.png" group-title="CINE", HBO FHD_
+http://thex.tv:57999/juanlopez/juanlopez/418
+
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-4ZSUAoxIB4k/Vcj2rHOJ8QI/AAAAAAAAPrg/rxNRZr_nMjc/s1600/HBOPLUS.png" group-title="CINE", HBO PLUS FHD_
+http://thex.tv:57999/juanlopez/juanlopez/426
+
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-4ZSUAoxIB4k/Vcj2rHOJ8QI/AAAAAAAAPrg/rxNRZr_nMjc/s1600/HBOPLUS.png" group-title="CINE", HBO PLUS SD_
+http://thex.tv:57999/juanlopez/juanlopez/428
+
+#EXTINF:-1 tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/SourceLogos/Cleared%20Logos/HBO/HBO%20WEST.jpg" group-title="CINE", HBO WEST FHD_
+http://thex.tv:57999/juanlopez/juanlopez/432
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/sv_hbo-2_m.png" group-title="CINE", HBO 2 FHD_
+http://thex.tv:57999/juanlopez/juanlopez/420
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/sv_hbo-2_m.png" group-title="CINE", HBO 2 HD_
+http://thex.tv:57999/juanlopez/juanlopez/421
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="CINE", HBO FAMILY FHD_
+http://thex.tv:57999/juanlopez/juanlopez/423
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="CINE", HBO FAMILY HD_
+http://thex.tv:57999/juanlopez/juanlopez/424
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="CINE", HBO FAMILY SD_
+http://thex.tv:57999/juanlopez/juanlopez/425
+
+#EXTINF:-1 tvg-logo="https://www.claro.com.co/portal/recursos/co/cpp/promociones/imagenes/1576097937893-HBO-pop-pequenio.png" group-title="CINE", HBO POP FHD_
+http://thex.tv:57999/juanlopez/juanlopez/437
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_max-up_m.png" group-title="CINE", HBO POP SD_
+http://thex.tv:57999/juanlopez/juanlopez/6223
+
+#EXTINF:-1 tvg-logo="https://operadores.hbo-la.tv/v2/img/nav-logos/hbo-mundi.png" group-title="CINE", HBO MUNDI SD_
+http://thex.tv:57999/juanlopez/juanlopez/5949
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/XEd15.jpg" group-title="CINE", HBO SIGNATURE FHD_
+http://thex.tv:57999/juanlopez/juanlopez/429
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/XEd15.jpg" group-title="CINE", HBO SIGNATURE HD_
+http://thex.tv:57999/juanlopez/juanlopez/430
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/XEd15.jpg" group-title="CINE", HBO SIGNATURE SD_
+http://thex.tv:57999/juanlopez/juanlopez/431
+
+#EXTINF:-1 tvg-logo="https://www.claro.com.co/portal/recursos/co/cpp/promociones/imagenes/1576097973446-HBO-xtreme-pequenio-b.png" group-title="CINE", HBO XTREME FHD_
+http://thex.tv:57999/juanlopez/juanlopez/434
+
+#EXTINF:-1 tvg-logo="https://www.claro.com.co/portal/recursos/co/cpp/promociones/imagenes/1576097973446-HBO-xtreme-pequenio-b.png" group-title="CINE", HBO XTREME HD_
+http://thex.tv:57999/juanlopez/juanlopez/435
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/280x280_RS/57/94/bc/5794bc4834b73112c9a90978089a5ada.jpg" group-title="CINE", I-SAT SD_
+http://thex.tv:57999/juanlopez/juanlopez/433
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Paramount.png" group-title="CINE", PARAMOUNT FHD_
+http://thex.tv:57999/juanlopez/juanlopez/438
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Paramount.png" group-title="CINE", PARAMOUNT SD_
+http://thex.tv:57999/juanlopez/juanlopez/440
+
+#EXTINF:-1 tvg-logo="https://www.sho.com/assets/images/lib/showtime-logo-red_160x160.jpg" group-title="CINE", SHOWTIME WEST FHD_
+http://thex.tv:57999/juanlopez/juanlopez/444
+
+#EXTINF:-1 tvg-logo="https://www.sho.com/assets/images/lib/showtime-logo-red_160x160.jpg" group-title="CINE", SHOWTIME BEYOND FHD_
+http://thex.tv:57999/juanlopez/juanlopez/441
+
+#EXTINF:-1 tvg-logo="https://www.sho.com/assets/images/lib/showtime-logo-red_160x160.jpg" group-title="CINE", SHOWTIME EXTREME FHD_
+http://thex.tv:57999/juanlopez/juanlopez/442
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/Sonychannel2019.jpg" group-title="CINE", SONY FHD_
+http://thex.tv:57999/juanlopez/juanlopez/445
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/Sonychannel2019.jpg" group-title="CINE", SONY HD_
+http://thex.tv:57999/juanlopez/juanlopez/446
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/d6/6b/b5/d66bb576495837a6336a136895c0ee31.png" group-title="CINE", SPACE FHD_
+http://thex.tv:57999/juanlopez/juanlopez/448
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/d6/6b/b5/d66bb576495837a6336a136895c0ee31.png" group-title="CINE", SPACE HD_
+http://thex.tv:57999/juanlopez/juanlopez/449
+
+#EXTINF:-1 tvg-logo="https://www.bolsamania.com/seriesadictos/wp-content/uploads/2008/01/st_pre_pos_2c.jpg" group-title="CINE", STARZ FHD_
+http://thex.tv:57999/juanlopez/juanlopez/459
+
+#EXTINF:-1 tvg-logo="https://www.bolsamania.com/seriesadictos/wp-content/uploads/2008/01/st_pre_pos_2c.jpg" group-title="CINE", STARZ ACTION FHD_
+http://thex.tv:57999/juanlopez/juanlopez/451
+
+#EXTINF:-1 tvg-logo="https://www.bolsamania.com/seriesadictos/wp-content/uploads/2008/01/st_pre_pos_2c.jpg" group-title="CINE", STARZ BLACK FHD_
+http://thex.tv:57999/juanlopez/juanlopez/452
+
+#EXTINF:-1 tvg-logo="https://www.bolsamania.com/seriesadictos/wp-content/uploads/2008/01/st_pre_pos_2c.jpg" group-title="CINE", STARZ COMEDIA FHD_
+http://thex.tv:57999/juanlopez/juanlopez/454
+
+#EXTINF:-1 tvg-logo="https://www.bolsamania.com/seriesadictos/wp-content/uploads/2008/01/st_pre_pos_2c.jpg" group-title="CINE", STARZ COMEDY HD_
+http://thex.tv:57999/juanlopez/juanlopez/455
+
+#EXTINF:-1 tvg-logo="https://www.bolsamania.com/seriesadictos/wp-content/uploads/2008/01/st_pre_pos_2c.jpg" group-title="CINE", STARZ EDGE FHD_
+http://thex.tv:57999/juanlopez/juanlopez/456
+
+#EXTINF:-1 tvg-logo="https://www.bolsamania.com/seriesadictos/wp-content/uploads/2008/01/st_pre_pos_2c.jpg" group-title="CINE", STARZ FAMILY HD_
+http://thex.tv:57999/juanlopez/juanlopez/458
+
+#EXTINF:-1 tvg-logo="https://www.bolsamania.com/seriesadictos/wp-content/uploads/2008/01/st_pre_pos_2c.jpg" group-title="CINE", STARZ WESTERN FHD_
+http://thex.tv:57999/juanlopez/juanlopez/462
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/fd8cde27-1fa8-46f4-a2ff-96436bbe6912_m.jpg" group-title="CINE", STUDIO UNIVERSAL FHD_
+http://thex.tv:57999/juanlopez/juanlopez/463
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/fd8cde27-1fa8-46f4-a2ff-96436bbe6912_m.jpg" group-title="CINE", STUDIO UNIVERSAL HD_
+http://thex.tv:57999/juanlopez/juanlopez/464
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/fd8cde27-1fa8-46f4-a2ff-96436bbe6912_m.jpg" group-title="CINE", STUDIO UNIVERSAL SD_
+http://thex.tv:57999/juanlopez/juanlopez/465
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/904626782095200257/4wc6NxMe_400x400.jpg" group-title="CINE", SYFY FHD_
+http://thex.tv:57999/juanlopez/juanlopez/466
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/904626782095200257/4wc6NxMe_400x400.jpg" group-title="CINE", SYFY HD_
+http://thex.tv:57999/juanlopez/juanlopez/467
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/904626782095200257/4wc6NxMe_400x400.jpg" group-title="CINE", SYFY SD_
+http://thex.tv:57999/juanlopez/juanlopez/468
+
+#EXTINF:-1 tvg-logo="https://images.mi.tv/channels/pe_tcm_m.png" group-title="CINE", TMC HD_
+http://thex.tv:57999/juanlopez/juanlopez/469
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/742637711408955392/m-Wdj_1B_400x400.jpg" group-title="CINE", TNT FHD_
+http://thex.tv:57999/juanlopez/juanlopez/471
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/742637711408955392/m-Wdj_1B_400x400.jpg" group-title="CINE", TNT HD_
+http://thex.tv:57999/juanlopez/juanlopez/472
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/742637711408955392/m-Wdj_1B_400x400.jpg" group-title="CINE", TNT SD_
+http://thex.tv:57999/juanlopez/juanlopez/473
+
+#EXTINF:-1 tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/2999.png" group-title="CINE", TNT SERIES FHD_
+http://thex.tv:57999/juanlopez/juanlopez/474
+
+#EXTINF:-1 tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/2999.png" group-title="CINE", TNT SERIES HD_
+http://thex.tv:57999/juanlopez/juanlopez/475
+
+#EXTINF:-1 tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/2999.png" group-title="CINE", TNT SERIES SD_
+http://thex.tv:57999/juanlopez/juanlopez/476
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2089163820/logo-ultra-tv.png" group-title="CINE", ULTRA FILM HD_
+http://thex.tv:57999/juanlopez/juanlopez/479
+
+#EXTINF:-1 tvg-logo="https://prnoticias.com/images/stories/latam/universalhd.jpg" group-title="CINE", UNIVERSAL CHANNEL FHD_
+http://thex.tv:57999/juanlopez/juanlopez/482
+
+#EXTINF:-1 tvg-logo="https://prnoticias.com/images/stories/latam/universalhd.jpg" group-title="CINE", UNIVERSAL CHANNEL HD_
+http://thex.tv:57999/juanlopez/juanlopez/483
+
+#EXTINF:-1 tvg-logo="https://prnoticias.com/images/stories/latam/universalhd.jpg" group-title="CINE", UNIVERSAL SD_
+http://thex.tv:57999/juanlopez/juanlopez/484
+
+#EXTINF:-1 tvg-logo="https://logostvargentina.files.wordpress.com/2008/08/d3e81-wb-hd-2011.png" group-title="CINE", WARNER FHD_
+http://thex.tv:57999/juanlopez/juanlopez/485
+
+#EXTINF:-1 tvg-logo="https://logostvargentina.files.wordpress.com/2008/08/d3e81-wb-hd-2011.png" group-title="CINE", WARNER HD_
+http://thex.tv:57999/juanlopez/juanlopez/486
+
+#EXTINF:-1 tvg-logo="https://logostvargentina.files.wordpress.com/2008/08/d3e81-wb-hd-2011.png" group-title="CINE", WARNER SD_
+http://thex.tv:57999/juanlopez/juanlopez/487
+
+#EXTINF:-1 tvg-logo="https://i.blogs.es/b808d8/baby_first_tv/450_1000.jpg" group-title="INFANTIL(LAT/ESP)", BABY FIRTS TV FHD|
+http://thex.tv:57999/juanlopez/juanlopez/488
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png" group-title="INFANTIL(LAT/ESP)", BABY TV ESPAÑA HD|
+http://thex.tv:57999/juanlopez/juanlopez/490
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png" group-title="INFANTIL(LAT/ESP)", BABY TV FHD|
+http://thex.tv:57999/juanlopez/juanlopez/491
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png" group-title="INFANTIL(LAT/ESP)", BABY TV SD|
+http://thex.tv:57999/juanlopez/juanlopez/492
+
+#EXTINF:-1 tvg-logo="https://www.directv.com/images/logos/channels/dark/large/217.png" group-title="INFANTIL(LAT/ESP)", BOOMERANG FHD|
+http://thex.tv:57999/juanlopez/juanlopez/494
+
+#EXTINF:-1 tvg-logo="https://www.directv.com/images/logos/channels/dark/large/217.png" group-title="INFANTIL(LAT/ESP)", BOOMERANG HD|
+http://thex.tv:57999/juanlopez/juanlopez/495
+
+#EXTINF:-1 tvg-logo="https://www.directstartv.com/wp-content/uploads/2017/05/cartoonnetwork.png" group-title="INFANTIL(LAT/ESP)", CARTOON NETWORK FHD|
+http://thex.tv:57999/juanlopez/juanlopez/497
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/ultraverse/images/6/67/Cartoonverse_-_Discovery_Kids_-7.png/revision/latest?cb=20180914005800" group-title="INFANTIL(LAT/ESP)", DISCOVERY KIDS FHD|
+http://thex.tv:57999/juanlopez/juanlopez/501
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/ultraverse/images/6/67/Cartoonverse_-_Discovery_Kids_-7.png/revision/latest?cb=20180914005800" group-title="INFANTIL(LAT/ESP)", DISCOVERY KIDS HD|
+http://thex.tv:57999/juanlopez/juanlopez/502
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/ultraverse/images/6/67/Cartoonverse_-_Discovery_Kids_-7.png/revision/latest?cb=20180914005800" group-title="INFANTIL(LAT/ESP)", DISCOVERY KIDS SD|
+http://thex.tv:57999/juanlopez/juanlopez/503
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/gt_disney_m.png" group-title="INFANTIL(LAT/ESP)", DISNEY CH ESPAÑA FHD|HEVC
+http://thex.tv:57999/juanlopez/juanlopez/513
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/gt_disney_m.png" group-title="INFANTIL(LAT/ESP)", DISNEY CH ESPAÑA HD|
+http://thex.tv:57999/juanlopez/juanlopez/514
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/gt_disney_m.png" group-title="INFANTIL(LAT/ESP)", DISNEY CH FHD|
+http://thex.tv:57999/juanlopez/juanlopez/504
+
+#EXTINF:-1 tvg-logo="http://television.com.ar/wp-content/uploads/2016/06/014b569c2bd9bc466ec3e71893042629.jpg" group-title="INFANTIL(LAT/ESP)", DISNEY JR ESPAÑA  HD|
+http://thex.tv:57999/juanlopez/juanlopez/515
+
+#EXTINF:-1 tvg-logo="http://television.com.ar/wp-content/uploads/2016/06/014b569c2bd9bc466ec3e71893042629.jpg" group-title="INFANTIL(LAT/ESP)", DISNEY JR ESPAÑA SD|
+http://thex.tv:57999/juanlopez/juanlopez/516
+
+#EXTINF:-1 tvg-logo="http://television.com.ar/wp-content/uploads/2016/06/014b569c2bd9bc466ec3e71893042629.jpg" group-title="INFANTIL(LAT/ESP)", DISNEY JR FHD|
+http://thex.tv:57999/juanlopez/juanlopez/507
+
+#EXTINF:-1 tvg-logo="http://hipercable.com.mx/hiper/wp-content/uploads/2018/07/disneyxd.jpg" group-title="INFANTIL(LAT/ESP)", DISNEY XD ESPAÑA HD|
+http://thex.tv:57999/juanlopez/juanlopez/517
+
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-dkrXpecyGVE/Vco2sameVpI/AAAAAAAAPuQ/SSgAx6JkAo4/s1600/Disney-XD-logo-aaron-stone-5232900-592-350.jpg" group-title="INFANTIL(LAT/ESP)", DISNEY XD FHD|
+http://thex.tv:57999/juanlopez/juanlopez/510
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTIL(LAT/ESP)", LOCOMOTION SD|
+http://thex.tv:57999/juanlopez/juanlopez/519
+
+#EXTINF:-1 tvg-logo="http://promocionestigosv.com/report-tigo/SV/tigo-star-canales/images/natgeo-kids-logo.png" group-title="INFANTIL(LAT/ESP)", NAT GEO KIDS FHD|
+http://thex.tv:57999/juanlopez/juanlopez/520
+
+#EXTINF:-1 tvg-logo="http://promocionestigosv.com/report-tigo/SV/tigo-star-canales/images/natgeo-kids-logo.png" group-title="INFANTIL(LAT/ESP)", NAT GEO KIDS SD|
+http://thex.tv:57999/juanlopez/juanlopez/521
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Nick_2.png/250px-Nick_2.png" group-title="INFANTIL(LAT/ESP)", NICK 2 FHD|
+http://thex.tv:57999/juanlopez/juanlopez/526
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/76/Nick_hd.png/revision/latest?cb=20110408021643" group-title="INFANTIL(LAT/ESP)", NICK FHD|
+http://thex.tv:57999/juanlopez/juanlopez/522
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTIL(LAT/ESP)", NICK JR ESPAÑA HD|
+http://thex.tv:57999/juanlopez/juanlopez/531
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTIL(LAT/ESP)", NICK JR ESPAÑA SD|
+http://thex.tv:57999/juanlopez/juanlopez/532
+
+#EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/f6/f671a9b045815bb273efca7eb45a4685.jpeg" group-title="INFANTIL(LAT/ESP)", NICK JR FHD|
+http://thex.tv:57999/juanlopez/juanlopez/524
+
+#EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/f6/f671a9b045815bb273efca7eb45a4685.jpeg" group-title="INFANTIL(LAT/ESP)", NICK JR SD|
+http://thex.tv:57999/juanlopez/juanlopez/525
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/76/Nick_hd.png/revision/latest?cb=20110408021643" group-title="INFANTIL(LAT/ESP)", NICK SD|
+http://thex.tv:57999/juanlopez/juanlopez/523
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTIL(LAT/ESP)", NICKTOON HD|
+http://thex.tv:57999/juanlopez/juanlopez/528
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/Pakapaka_logotipo_%282010-2016%29.png" group-title="INFANTIL(LAT/ESP)", PAKA PAKA SD|
+http://thex.tv:57999/juanlopez/juanlopez/533
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTIL(LAT/ESP)", SEMILLITAS SD|
+http://thex.tv:57999/juanlopez/juanlopez/535
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTIL(LAT/ESP)", BIT ME FHD|
+http://thex.tv:57999/juanlopez/juanlopez/536
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTIL(LAT/ESP)", TOONCAST FHD|
+http://thex.tv:57999/juanlopez/juanlopez/538
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/Zoomoo_logo.png" group-title="INFANTIL(LAT/ESP)", ZOOMOO FHD|
+http://thex.tv:57999/juanlopez/juanlopez/540
+
+#EXTINF:-1 tvg-logo="https://revistapym.com.co/wp-content/uploads/2019/02/animal-planet.jpg" group-title="MUNDO", ANIMAL PLANET  FHD/
+http://thex.tv:57999/juanlopez/juanlopez/542
+
+#EXTINF:-1 tvg-logo="https://revistapym.com.co/wp-content/uploads/2019/02/animal-planet.jpg" group-title="MUNDO", ANIMAL PLANET HD/
+http://thex.tv:57999/juanlopez/juanlopez/543
+
+#EXTINF:-1 tvg-logo="http://img3.wikia.nocookie.net/__cb20091118145134/logopedia/images/6/69/Discovery_Channel_1995.png" group-title="MUNDO", DISCOVERY CHANNEL FHD/
+http://thex.tv:57999/juanlopez/juanlopez/545
+
+#EXTINF:-1 tvg-logo="http://img3.wikia.nocookie.net/__cb20091118145134/logopedia/images/6/69/Discovery_Channel_1995.png" group-title="MUNDO", DISCOVERY CHANNEL HD/
+http://thex.tv:57999/juanlopez/juanlopez/546
+
+#EXTINF:-1 tvg-logo="https://brandfolder.com/discoveryfamilia/logo/discoveryfamilia-primary-logo.png" group-title="MUNDO", DISCOVERY FAMILIA FHD/
+http://thex.tv:57999/juanlopez/juanlopez/6116
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/D/Discovery_Civilization_Channel-logo-DD02496328-seeklogo.com.gif" group-title="MUNDO", DISCOVERY CIVILIZATION FHD/
+http://thex.tv:57999/juanlopez/juanlopez/548
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/D/Discovery_Civilization_Channel-logo-DD02496328-seeklogo.com.gif" group-title="MUNDO", DISCOVERY CIVILIZATION HD/
+http://thex.tv:57999/juanlopez/juanlopez/549
+
+#EXTINF:-1 tvg-logo="https://www.lamac.org/system/channels/logos/000/000/026/original/pic_home_health.png?1522176758" group-title="MUNDO", DISCOVERY HH FHD/
+http://thex.tv:57999/juanlopez/juanlopez/551
+
+#EXTINF:-1 tvg-logo="https://www.lamac.org/system/channels/logos/000/000/026/original/pic_home_health.png?1522176758" group-title="MUNDO", DISCOVERY HH HD/
+http://thex.tv:57999/juanlopez/juanlopez/552
+
+#EXTINF:-1 tvg-logo="https://www.lamac.org/system/channels/logos/000/000/026/original/pic_home_health.png?1522176758" group-title="MUNDO", DISCOVERY HH SD/
+http://thex.tv:57999/juanlopez/juanlopez/553
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ea/ID_Canada_Logo.png" group-title="MUNDO", DISCOVERY ID FHD/
+http://thex.tv:57999/juanlopez/juanlopez/554
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ea/ID_Canada_Logo.png" group-title="MUNDO", DISCOVERY ID HD/
+http://thex.tv:57999/juanlopez/juanlopez/555
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ea/ID_Canada_Logo.png" group-title="MUNDO", DISCOVERY ID SD/
+http://thex.tv:57999/juanlopez/juanlopez/556
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_discovery-science_m.png" group-title="MUNDO", DISCOVERY SCINENCE FHD/
+http://thex.tv:57999/juanlopez/juanlopez/557
+
+#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/discoverytheater.png" group-title="MUNDO", DISCOVERY THEATER FHD/
+http://thex.tv:57999/juanlopez/juanlopez/560
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/discovery_turbo.png" group-title="MUNDO", DISCOVERY TURBO FHD/
+http://thex.tv:57999/juanlopez/juanlopez/563
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/discovery_turbo.png" group-title="MUNDO", DISCOVERY TURBO SD/
+http://thex.tv:57999/juanlopez/juanlopez/565
+
+#EXTINF:-1 tvg-logo="https://fullcanaleshd.files.wordpress.com/2016/05/e97f3-discovery2bworld2ben2bvivo.png" group-title="MUNDO", DISCOVERY WORLD FHD/
+http://thex.tv:57999/juanlopez/juanlopez/566
+
+#EXTINF:-1 tvg-logo="https://fullcanaleshd.files.wordpress.com/2016/05/e97f3-discovery2bworld2ben2bvivo.png" group-title="MUNDO", DISCOVERY WORLD HD/
+http://thex.tv:57999/juanlopez/juanlopez/567
+
+#EXTINF:-1 tvg-logo="https://fullcanaleshd.files.wordpress.com/2016/05/e97f3-discovery2bworld2ben2bvivo.png" group-title="MUNDO", DISCOVERY WORLD SD/
+http://thex.tv:57999/juanlopez/juanlopez/568
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/History2Logo2019.png/120px-History2Logo2019.png" group-title="MUNDO", H2 FHD/
+http://thex.tv:57999/juanlopez/juanlopez/570
+
+#EXTINF:-1 tvg-logo="https://www.lamac.org/system/channels/logos/000/000/021/original/pic_history.png?1522176657" group-title="MUNDO", HISTORY FHD/
+http://thex.tv:57999/juanlopez/juanlopez/573
+
+#EXTINF:-1 tvg-logo="https://www.lamac.org/system/channels/logos/000/000/021/original/pic_history.png?1522176657" group-title="MUNDO", HISTORY HD/
+http://thex.tv:57999/juanlopez/juanlopez/574
+
+#EXTINF:-1 tvg-logo="https://www.lamac.org/system/channels/logos/000/000/021/original/pic_history.png?1522176657" group-title="MUNDO", HISTORY SD/
+http://thex.tv:57999/juanlopez/juanlopez/575
+
+#EXTINF:-1 tvg-logo="https://www.panoramaaudiovisual.com/wp-content/uploads/2009/12/National-Geographic-HD-Logo.jpg" group-title="MUNDO", NAT GEO FHD/
+http://thex.tv:57999/juanlopez/juanlopez/576
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_nat-geo-wild_m.png" group-title="MUNDO", NATGEO WILD FHD/
+http://thex.tv:57999/juanlopez/juanlopez/579
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_discovery-tlc_m.png" group-title="MUNDO", TLC FHD/
+http://thex.tv:57999/juanlopez/juanlopez/581
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_discovery-tlc_m.png" group-title="MUNDO", TLC HD/
+http://thex.tv:57999/juanlopez/juanlopez/582
+
+#EXTINF:-1 tvg-logo="https://travel.home.sndimg.com/content/dam/images/travel/editorial/homepage/TRVL-default-image_4x3.jpg.rend.hgtvcom.616.462.suffix/1539121995359.jpeg" group-title="MUNDO", TRAVEL CHANNEL FHD/
+http://thex.tv:57999/juanlopez/juanlopez/584
+
+#EXTINF:-1 tvg-logo="https://www.amordiscostv.com/images/logoamordiscos.png" group-title="MUSICA", AMORDISCOS SD°
+http://thex.tv:57999/juanlopez/juanlopez/585
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_concert-channel-hd_m.png" group-title="MUSICA", CONCERT CHANNEL HD°
+http://thex.tv:57999/juanlopez/juanlopez/589
+
+#EXTINF:-1 tvg-logo="https://4vector.com/i/free-vector-music-country_033192_music-country.png" group-title="MUSICA", COUNTRY MUSIC HD°
+http://thex.tv:57999/juanlopez/juanlopez/590
+
+#EXTINF:-1 tvg-logo="https://jenesaispop.com/wp-content/uploads/2013/06/mtv.jpg" group-title="MUSICA", MTV CLASSIC HD°
+http://thex.tv:57999/juanlopez/juanlopez/594
+
+#EXTINF:-1 tvg-logo="https://jenesaispop.com/wp-content/uploads/2013/06/mtv.jpg" group-title="MUSICA", MTV DANCE HD°
+http://thex.tv:57999/juanlopez/juanlopez/595
+
+#EXTINF:-1 tvg-logo="https://jenesaispop.com/wp-content/uploads/2013/06/mtv.jpg" group-title="MUSICA", MTV DANCE SD°
+http://thex.tv:57999/juanlopez/juanlopez/596
+
+#EXTINF:-1 tvg-logo="https://jenesaispop.com/wp-content/uploads/2013/06/mtv.jpg" group-title="MUSICA", MTV FHD°
+http://thex.tv:57999/juanlopez/juanlopez/597
+
+#EXTINF:-1 tvg-logo="https://jenesaispop.com/wp-content/uploads/2013/06/mtv.jpg" group-title="MUSICA", MTV LIVE FHD°
+http://thex.tv:57999/juanlopez/juanlopez/600
+
+#EXTINF:-1 tvg-logo="https://jenesaispop.com/wp-content/uploads/2013/06/mtv.jpg" group-title="MUSICA", MTV LIVE SD°
+http://thex.tv:57999/juanlopez/juanlopez/601
+
+#EXTINF:-1 tvg-logo="https://jenesaispop.com/wp-content/uploads/2013/06/mtv.jpg" group-title="MUSICA", MTV ROCKS HD°
+http://thex.tv:57999/juanlopez/juanlopez/603
+
+#EXTINF:-1 tvg-logo="http://oklivetv.com/wp-content/uploads/media/99bf315400be046eda525c154645f49a.jpeg" group-title="MUSICA", RETRO MUSIC SD°
+http://thex.tv:57999/juanlopez/juanlopez/607
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012011/ritmoson_latino.png?itok=nlibB5QW" group-title="MUSICA", RITMOSON HD°
+http://thex.tv:57999/juanlopez/juanlopez/608
+
+#EXTINF:-1 tvg-logo="https://etb.com/hogares/img1/guia/logos/logo-vh1hd.jpg" group-title="MUSICA", VH1 FHD°
+http://thex.tv:57999/juanlopez/juanlopez/612
+
+#EXTINF:-1 tvg-logo="https://etb.com/hogares/img1/guia/logos/logo-vh1hd.jpg" group-title="MUSICA", VH1 MEGA CLASSIC SD°
+http://thex.tv:57999/juanlopez/juanlopez/613
+
+#EXTINF:-1 tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/680px-LOGO_VH1_MEGA_HITS.svg-680x196-511647073.png" group-title="MUSICA", VH1 MEGA HITS HD°
+http://thex.tv:57999/juanlopez/juanlopez/614
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/drama/images/3/3c/X1_Quantum_Leap_cover.jpg/revision/latest?cb=20190827030343&path-prefix=es" group-title="MUSICA", SEXY K-POP HD°
+http://thex.tv:57999/juanlopez/juanlopez/6111
+
+#EXTINF:-1 tvg-logo="https://www.lineauno.pe/wp-content/uploads/2020/03/Coronavirus.jpg" group-title="NOTICIAS", CORONAVIRUS
+http://thex.tv:57999/juanlopez/juanlopez/4960
+
+#EXTINF:-1 tvg-logo="https://i0.pngocean.com/files/260/693/163/logo-brigham-young-university-byu-tv-television-channel-kbyu-tv-brigham-young-university.jpg" group-title="NOTICIAS", BYU TV GLOBAL HD¡
+http://thex.tv:57999/juanlopez/juanlopez/621
+
+#EXTINF:-1 tvg-logo="https://dateame.co/public/storage/media/20180511_cable_noticias.png" group-title="NOTICIAS", CABLENOTICIAS FHD¡
+http://thex.tv:57999/juanlopez/juanlopez/622
+
+#EXTINF:-1 tvg-logo="https://www.marketingdirecto.com/wp-content/uploads/2011/03/cnn.jpg" group-title="NOTICIAS", CNN INT SD¡
+http://thex.tv:57999/juanlopez/juanlopez/624
+
+#EXTINF:-1 tvg-logo="https://ep00.epimg.net/sociedad/imagenes/2012/12/03/actualidad/1354567258_984993_1354567407_noticia_normal.jpg" group-title="NOTICIAS", CNN EN ESPAÑOL HD¡
+http://thex.tv:57999/juanlopez/juanlopez/6229
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NOTICIAS", CNN EN ESPAÑOL SD¡
+http://thex.tv:57999/juanlopez/juanlopez/4957
+
+#EXTINF:-1 tvg-logo="https://media.tvalacarta.info/canales/256x256/mileniotv.png" group-title="NOTICIAS", MILENIO TV SD¡
+http://thex.tv:57999/juanlopez/juanlopez/629
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VARIEDADES", FASHION TV FHD'
+http://thex.tv:57999/juanlopez/juanlopez/646
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/f4086940-6e04-43fa-a52b-36d3df75f910_m.jpg" group-title="VARIEDADES", FOXLIFE FHD'
+http://thex.tv:57999/juanlopez/juanlopez/649
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Galavision_usa_oldlogo.svg/360px-Galavision_usa_oldlogo.svg.png" group-title="VARIEDADES", GALAVISION FHD'
+http://thex.tv:57999/juanlopez/juanlopez/651
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VARIEDADES", MASCHIC SD'
+http://thex.tv:57999/juanlopez/juanlopez/660
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/738187124298502144/QDWGqDSu_400x400.jpg" group-title="VARIEDADES", UNIMAS HD'
+http://thex.tv:57999/juanlopez/juanlopez/671
+
+#EXTINF:-1 tvg-logo="http://thex.tv:57999/images/8cefbc3522898a7a5e0897732802449e.jpg" group-title="24/7  CANALES", Rapidos y Furiosos 24/7
+http://thex.tv:57999/juanlopez/juanlopez/3455
+
+#EXTINF:-1 tvg-logo="https://www.michaels.com/static/on/demandware.static/-/Sites-MichaelsUS-Library/default/dw6509e45b/images/logos/mobile/kids-logo-partial-active.svg" group-title="24/7  CANALES", Movie City Kids 24/7
+http://thex.tv:57999/juanlopez/juanlopez/3409
